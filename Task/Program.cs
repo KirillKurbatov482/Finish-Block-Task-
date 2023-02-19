@@ -1,4 +1,4 @@
-﻿string [] stringArr = new string [] {"hello", "2", "world", ":-)"};
+﻿string [] stringArr = new string [] {"Russia", "2", "peace", ":-)"};
 int lengthArr = 0;
 int lengthStr = 3;
 
